@@ -1,7 +1,7 @@
 Ceci est le GIT repository du logo du 
-Club Informatique du collège de Bois-de-Boulogne.
-SON UTILISATION ET SA MODIFICATION EST RÉSERVÉE
-EXCLUSIVEMENT AUX MEMBRES PRÉSENTS ET PASSÉS DU GROUPES.
+Club Informatique du collï¿½ge de Bois-de-Boulogne.
+SON UTILISATION ET SA MODIFICATION EST Rï¿½SERVï¿½E
+EXCLUSIVEMENT AUX MEMBRES PRï¿½SENTS ET PASSï¿½S DU GROUPES.
 
 http://www.linkedin.com/groups/Club-Info-BdeB-4555970?home=&gid=4555970&trk=anet_ug_hm
 
@@ -13,3 +13,5 @@ RESERVED TO IT'S MEMBERS, PRESENTS OR PAST.
 
 http://www.linkedin.com/groups/Club-Info-BdeB-4555970?home=&gid=4555970&trk=anet_ug_hm
 
+<ul class="task-list">
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" value="on" disabled>Implement a function/features to catch errors.</input></li></ul>
