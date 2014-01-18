@@ -1,7 +1,7 @@
 Ceci est le GIT repository du logo du 
-Club Informatique du coll�ge de Bois-de-Boulogne.
-SON UTILISATION ET SA MODIFICATION EST R�SERV�E
-EXCLUSIVEMENT AUX MEMBRES PR�SENTS ET PASS�S DU GROUPES.
+Club Informatique du collège de Bois-de-Boulogne.
+SON UTILISATION ET SA MODIFICATION EST RÉSERVÉE
+EXCLUSIVEMENT AUX MEMBRES PRÉSENTS ET PASSÉS DU GROUPES.
 
 http://www.linkedin.com/groups/Club-Info-BdeB-4555970?home=&gid=4555970&trk=anet_ug_hm
 
