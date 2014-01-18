@@ -12,6 +12,3 @@ IT'S USE AND IT'S MODIFICATION IS EXCLUSIVELY
 RESERVED TO IT'S MEMBERS, PRESENTS OR PAST.
 
 http://www.linkedin.com/groups/Club-Info-BdeB-4555970?home=&gid=4555970&trk=anet_ug_hm
-
-<ul class="task-list">
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" value="on" disabled>Implement a function/features to catch errors.</input></li></ul>
